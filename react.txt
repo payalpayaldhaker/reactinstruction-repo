@@ -1,0 +1,10 @@
+Creating app... done, ? frozen-bastion-33333
+https://frozen-bastion-33333.herokuapp.com/ | https://git.heroku.com/frozen-bastion-33333.git
+
+DATABASE_URL: postgres://ewizxnfpnogixc:76cced7c3d857f5bd53ce21462d797423115dcc566bff2eb2dbb7c1f90425b1b@ec2-44-198-230-76.compute-1.amazonaws.com:5432/d6jukal4ggdb3
+PS C:\Users\Sai\Desktop\strapii5\myproject> 
+
+MY_HEROKU_URL: https://frozen-bastion-33333.herokuapp.com/
+
+ https://frozen-bastion-33333.herokuapp.com
+
